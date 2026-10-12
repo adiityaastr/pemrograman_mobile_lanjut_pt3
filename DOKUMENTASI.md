@@ -123,6 +123,6 @@ const { nama, harga, jumlah, ukuran, emoji } = route.params;
 
 ## Screenshot
 
-| Home | Detail | Konfirmasi | Sukses |
-|---|---|---|---|
-| ![](screenshots/1-home.png) | ![](screenshots/2-detail.png) | ![](screenshots/3-konfirmasi.png) | ![](screenshots/4-sukses.png) |
+| Home | Filter Kategori | Detail | Konfirmasi | Sukses |
+|---|---|---|---|---|
+| ![](screenshots/1-home.png) | ![](screenshots/2-filter.png) | ![](screenshots/3-detail.png) | ![](screenshots/4-konfirmasi.png) | ![](screenshots/5-sukses.png) |
